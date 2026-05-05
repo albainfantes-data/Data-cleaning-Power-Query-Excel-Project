@@ -95,7 +95,7 @@ Clean text fields (trim spaces, consistent casing): Text fields were standardize
 
 Multiple inconsistencies in text formatting were identified and resolved, improving overall data consistency and ensuring reliable grouping and analysis. 
 
-![Customers](screenshots\customers_sheet_cleaned.png)
+![Customers](screenshots/customers_sheet_cleaned.png)
 *Screenshot of customers sheet cleaned.*
 
 **2\. Data Transformation (Power Query focus)**  
@@ -120,7 +120,7 @@ The analysis showed a majority of negative delay values, indicating that many pa
 
 Such discrepancies may affect time-based analysis and operational insights, and warrant further investigation to identify underlying causes.
 
-![Orders](screenshots\orders_sheet_cleaned.png)
+![Orders](screenshots/orders_sheet_cleaned.png)
 *Screenshot of orders sheet.*
 
 **3\. Data Validation**  
@@ -141,7 +141,7 @@ Ensure logical consistency:
 
 The analysis identified a significant number of inconsistent records, indicating potential issues in date recording or system processing logic. These discrepancies may impact time-based analysis and warrant further investigation to determine their underlying causes.
 
-![Payments](screenshots\payments_sheet_cleaned.png)
+![Payments](screenshots/payments_sheet_cleaned.png)
 *Screenshot of payments sheet.*
 
 **4\. Output**  
@@ -167,7 +167,7 @@ In addition, multiple pivot tables were created to support detailed analysis:
 
 These metrics and pivot tables provide a structured view of operational performance while highlighting key data integrity issues identified during the analysis.
 
-![Summary Metrics](screenshots\summary_metrics_sheet.png)
+![Summary Metrics](screenshots/summary_metrics_sheet.png)
 *Screenshot of summary\_metrics sheet.*
 
 ---
